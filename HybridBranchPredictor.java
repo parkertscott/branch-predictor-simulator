@@ -1,6 +1,6 @@
 public class HybridBranchPredictor
 {
-    int NUM_CHOOSER_COUNTERS;
+    int NUM_CHOOSER_COUNTERSa;
     int[] chooserCounters;
     int numPredictions = 0;
     int numMispredictions = 0;
